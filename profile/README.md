@@ -52,7 +52,7 @@
 
 ### 주방 예약
 <img src="images/주방예약1.png" width="700" />
-<img src="images/주방예약2.png" width="700" />
+<img src="images/주방예약2.png" width="200" />
 <img src="images/주방예약3.png" width="700" />
 
 - 날짜, 시간, 인원 선택 후 예약하기 클릭
@@ -61,7 +61,7 @@
 
 ### 재료 정산
 <img src="images/주방예약-재료정산1.png" width="700" />
-<img src="images/주방예약-재료정산2" width="700" />
+<img src="images/주방예약-재료정산2.png" width="700" />
 
 
 - 사용한 재료 내역에 대해서 사용량을 입력하면 단위에 맞춰서 계산
@@ -69,7 +69,7 @@
 
 ### 호스트 매출 관리
 <img src="images/매출관리1.png" width="700" />
-<img src="images/매출관리2" width="700" />
+<img src="images/매출관리2.png" width="700" />
 
 
 - 미정산 내역과 월 별 정산 내역 제공
