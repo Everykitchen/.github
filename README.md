@@ -1,7 +1,7 @@
 # 🍽️ Anyone can cook! 오직, 공유주방만을 위한 공간대여 서비스
 
 
-<img src="images/에브리키친logo.jpg" width="700" />
+<img src="profile/images/에브리키친logo.jpg" width="700" />
 
 ---
 
@@ -27,7 +27,7 @@
 ## 🖥️ 서비스 화면
 
 ### 메인페이지
-<img src="images/메인페이지1.png" width="700" />
+<img src="profile/images/메인페이지1.png" width="700" />
 
 - 필터 기능으로 지역, 날짜, 인원, 가격, 시설을 설정하여서 원하는 주방을 검색
 - 정렬 기능 이용하여 가격, 후기 순 정렬
@@ -35,42 +35,42 @@
 
 
 ### 지도 검색
-<img src="images/지도검색.png" width="700" />
+<img src="profile/images/지도검색.png" width="700" />
 
 - 위치 정보 동의 시 현재 위치 기준 3km 반경 주방을 마커로 표시
 - 주방 목록 클릭 시 해당 주방 위치로 지도 이동
 - 마커 클릭 시 상세 주방으로 이동 기능 제공
 
 ### 주방 상세 페이지
-<img src="images/주방상세페이지.png" width="700" />
+<img src="profile/images/주방상세페이지.png" width="700" />
 
 - 공간, 시설, 재료에 대한 정보를 사용자 예약 편의에 맞도록 제공
 
 ### 주방 예약
-<img src="images/주방예약1.png" width="700" />
-<img src="images/주방예약3.png" width="700" />
+<img src="profile/images/주방예약1.png" width="700" />
+<img src="profile/images/주방예약3.png" width="700" />
 
 - 날짜, 시간, 인원 선택 후 예약하기 클릭
 - 카카오톡으로 송금 안내 받기
 - 예약 내역 확인 (호스트 승인 전 후 예약대기 → 예약완료)
 
 ### 재료 정산
-<img src="images/주방예약-재료정산1.png" width="700" />
-<img src="images/주방예약-재료정산2.png" width="700" />
+<img src="profile/images/주방예약-재료정산1.png" width="700" />
+<img src="profile/images/주방예약-재료정산2.png" width="700" />
 
 
 - 사용한 재료 내역에 대해서 사용량을 입력하면 단위에 맞춰서 계산
 - 사용 금액에 대해서 입금 완료 후 호스트 승인에 따라 (정산대기 → 정산완료)
 
 ### 호스트 매출 관리
-<img src="images/매출관리1.png" width="700" />
-<img src="images/매출관리2.png" width="700" />
+<img src="profile/images/매출관리1.png" width="700" />
+<img src="profile/images/매출관리2.png" width="700" />
 
 
 - 미정산 내역과 월 별 정산 내역 제공
 
 ### 호스트 주방 관리
-<img src="images/주방등록.png" width="700" />
+<img src="profile/images/주방등록.png" width="700" />
 
 
 - 주방 등록의 경우 호스트의 입력 편의성과 사용자의 정보 제공을 위해 폼 형식으로 모든 항목에 대하여 필수 입력
@@ -81,7 +81,7 @@
 
 ## 🛠️ 시스템 아키텍처
 
-<img src="images/시스템아키텍처2.jpg" width="700" />
+<img src="profile/images/시스템아키텍처2.jpg" width="700" />
 
 EveryKitchen은 React와 Spring Boot 기반으로, AWS EC2 환경에서 Docker로 배포되었습니다.
 외부 API와의 연동을 통해 지도, 주소, 인증 기능도 통합 구현하였습니다.
