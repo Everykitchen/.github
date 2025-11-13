@@ -33,8 +33,7 @@
 ---
 
 ## 🛠️ 시스템 아키텍처
-
-![시스템아키텍처](images/시스템아키텍처2.jpg)
+<img src="./images/시스템아키텍처2.png" width="300" />
 
 EveryKitchen은 React와 Spring Boot 기반으로, AWS EC2 환경에서 Docker로 배포되었습니다.
 외부 API와의 연동을 통해 지도, 주소, 인증 기능도 통합 구현하였습니다.
