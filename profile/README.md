@@ -51,8 +51,8 @@
 - 공간, 시설, 재료에 대한 정보를 사용자 예약 편의에 맞도록 제공
 
 ### 주방 예약
-<img src="images/주방예약1.png" width="500" />
-<img src="images/주방예약2.png" width="200" />
+<img src="images/주방예약1.png" width="700" style="display: inline-block; margin-right: 10px;" />
+<img src="images/주방예약2.png" width="200" style="display: inline-block; margin-right: 10px;" />
 <img src="images/주방예약3.png" width="700" />
 
 - 날짜, 시간, 인원 선택 후 예약하기 클릭
